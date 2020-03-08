@@ -21,7 +21,7 @@ The most widely used public key cryptosystem is RSA.
 	C = E(PRa, P)
 	P = D(PUa, C)
 
-	-	**Authentication & Security**
+-	**Authentication & Security**
 	C = E(PUb, E(PRa, P))
 	P = D(PRb, D(PUa, C))
 
