@@ -6,6 +6,7 @@
 	-	Substitution
 	-	Transposition
 	-	Block Cipher and Data Encryption Standard (DES)
+	-	Advanced Encryption Standard (AES)
 	
 -	Asymmetric Cipher
 	-	Digital Signature (Authentication)
