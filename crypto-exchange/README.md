@@ -1,6 +1,6 @@
 # Cryptocurrency Swapping Exchange
 
-## Crypto swap allow user to easily exchange one crypto currency for another.
+## Crypto swap allows user to easily exchange one crypto currency for another.
 
 -	**1.	Application Home Page**
 	-	From : Amount to be swap from a selected crypto asset.
