@@ -1,6 +1,6 @@
 # Cryptocurrency Wallet
 
-## Cryptocurrency wallet is used to receive or spend cryptocurrencies. This wallet is for COMP ERC20 token.
+-	Cryptocurrency wallet is used to receive or spend cryptocurrencies. This wallet is for COMP ERC20 token.
 
 -	**1.	Application Home Page**
 	-	Recipient address : to which address cryptocurrency to be send 
