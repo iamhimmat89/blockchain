@@ -14,7 +14,7 @@
 
 ## **Cryptography**
 -	Symmetric Cryptography
-	-	Substitution 
+	-	Substitution
 	-	Transposition
 	-	Block Cipher and Data Encryption Standard (DES)
 	-	Advanced Encryption Standard (AES)
